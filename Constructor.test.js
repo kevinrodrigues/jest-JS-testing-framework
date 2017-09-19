@@ -1,3 +1,5 @@
+/* `Jest` unit testing */
+
 const ConstructorTest = require('./Constructor');
 
 describe('`ConstructorJest`', () => {
