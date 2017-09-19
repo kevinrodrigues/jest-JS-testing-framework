@@ -8,7 +8,6 @@ ConstructorJest.prototype.init = function() {
     this.something(this.options);
 };
 
-
 ConstructorJest.prototype.something = function(options) {
     console.log(options);
 };
